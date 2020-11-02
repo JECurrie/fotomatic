@@ -1,0 +1,2 @@
+# fotomatic
+Instant format camera 
